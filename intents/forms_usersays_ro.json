@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1d22dbe9-4ad2-47dc-a8da-407b3974f0a7",
+    "data": [
+      {
+        "text": "formular taxe imobil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "115bb78e-7d01-4f55-aaf0-16ea12b216e8",
+    "data": [
+      {
+        "text": "Doresc formularul pentru impozitul anual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  }
+]

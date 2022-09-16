@@ -1,0 +1,37 @@
+{
+  "id": "5bb6d7e0-65b5-4356-846b-0b74ba911819",
+  "name": "forms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ro",
+          "speech": [
+            "Formularul dorit il puteti completa aici",
+            "Pentru completarea formularului va trebui sa va logati in contul dumneavvostra pe pagina Primariei Turda aici:",
+            "In cazul in care nu aveti un cont va trebui sa va intregistrati aici: Dureaza doar cateva minute. Va multumesc!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

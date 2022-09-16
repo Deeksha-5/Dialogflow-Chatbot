@@ -1,0 +1,52 @@
+{
+  "id": "cf1a8ad4-b61d-4227-9260-31c802726bfa",
+  "name": "street-repair",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "150b9222-20bb-4a63-9609-0e0b773761f5",
+          "name": "street_name",
+          "required": true,
+          "dataType": "@street_name",
+          "value": "$street_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ro",
+              "value": "Urmatoarele strazi se afla actual in reparatie. Va rog alegeti strada ca va intereseaza.: str. Narciselor, str. Margaretelor, str. Libertatii, str. Turda, str. Marului"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ro",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

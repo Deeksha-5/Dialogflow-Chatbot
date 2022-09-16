@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1319e999-084a-461d-b59a-a1ab68c74f7e",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Marului",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "887904e9-6567-409f-a384-752fb95538e2",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Turda",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "cefcbdf3-8ae0-4d56-a6b9-fdec054bcff4",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Libertatii",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "c28b91e3-98ea-4922-806d-97424c10c7c5",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Margaretelor",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "d31ea4bf-e162-4a4b-83e4-e4e5128e2378",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Narciselor",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  },
+  {
+    "id": "f9c0abb8-a395-45b2-8463-2320fee05335",
+    "data": [
+      {
+        "text": "Cand o sa se redeschida ",
+        "userDefined": false
+      },
+      {
+        "text": "str. Dr. Ioan Ratiu",
+        "meta": "@street_name",
+        "alias": "street_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ro",
+    "updated": 0
+  }
+]

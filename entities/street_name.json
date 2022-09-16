@@ -1,0 +1,9 @@
+{
+  "id": "a30dda02-2509-41b0-ba70-8db44fd3632e",
+  "name": "street_name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
